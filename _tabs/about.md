@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 2
 ---
 
 Hello, I’m Mehmet. I’m a self-taught cybersecurity pro with over 15 years of hands-on experience and an OSCP certification. Online, I go by UN5T48L3 (Unstable, Stable). My work revolves around spotting security gaps, reinforcing defenses, and staying one step ahead of modern cyber threats. Over the years, I’ve embraced a hacker’s mindset to fine-tune penetration testing and ethical hacking techniques. My main mission is to strengthen every system I touch, turning complex security issues into straightforward, effective solutions.
@@ -20,7 +20,7 @@ Before I could experiment with the things I was curious about, I had to start fi
 
 When I first started using a Linux operating system, Debian 5 was available. After many attempts, I finally managed to install it, but I suffered greatly from not being able to use almost any of the programs I was used to. In short, I’ve contributed—intentionally or not—to the development of what we now call “Cyber Security,” which has become very trendy lately. Everything I did up to this point was purely out of curiosity and for fun. Unfortunately, I’ve noticed that many people only do this for ‘show’ and make crazy amounts of money. Anyone whose sole aim is to make money won’t last long. To be permanent, you need more than money; you need imagination and curiosity.
 
-In my view, open source is like planting a sapling in the ground. Everything we’ve learned so far has, in a sense, been made possible by open source. Sharing knowledge and allowing others to contribute to that knowledge is the main reason technology has gained so much momentum. For instance, you could say GitHub is like Google for programmers today. Whenever I see an open-source program that actually works, thousands of questions form in my mind, intertwining into a big knot that I still haven’t fully unraveled. 🙂
+In my view, open source is like planting a sapling in the ground. Everything we’ve learned so far has, in a sense, been made possible by open source. Sharing knowledge and allowing others to contribute to that knowledge is the main reason technology has gained so much momentum. For instance, you could say GitHub is like Google for programmers today. Whenever I see an open-source program that actually works, thousands of questions form in my mind, intertwining into a big knot that I still haven’t fully unraveled.
 
 In fact, from my perspective, hacking isn’t just about software, systems, or similar things—it can also be done on the human mind, which is what we call “Social Engineering.” I don’t feel the need to label myself with a title or a name because I care more about how I’ll be remembered in the future rather than what people call me today. The bottom line is, people call us “hackers,” which is quite normal. But some words start to lose their meaning over time, and I think “hacker” is one of them. Because the general perception is that hacker = bad guy, but that’s a huge misconception. Why do you think technology has advanced so quickly? It’s because of curious, questioning people—people like us. Hackers, like any profession, can be good or bad. It all depends on a person’s conscience, character, and what they want out of life.
 
