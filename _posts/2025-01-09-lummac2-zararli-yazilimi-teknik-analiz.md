@@ -49,14 +49,14 @@ Bu zararlının dikkat çekici özelliklerinden biri, dolaylı kontrol akışlar
 2. **Çalıştırma:** Çalıştırıldığında, zararlı yazılım sistem süreçlerine entegre olur ve antivirüs yazılımlarından kaçınmak için karartma yöntemlerini kullanır. 
 
 ### Çalıştırma Akışı
-```mermaid
+<pre class="mermaid">
 flowchart TD
     A[Kimlik Avı E-postası Gönderildi] -->|Kullanıcı Zararlı Eki Açar| B[Zararlı Yazılım Çalıştırılır]
     B --> C[Proses Enjeksiyonu]
     C --> D[Tarayıcı Verileri Toplanır]
     D --> E[Veriler C2 Sunucusuna Gönderilir]
     E --> F[Kalıcılık Sağlanır]
-```
+</pre>
 
 ### Davranış Analizi
 - **Dolaylı Kontrol Akışı Kullanımı:** LummaC2, statik analiz araçlarını yanıltmak için dolaylı kontrol akışı tekniklerini kullanır. (Kaynak: [Google Cloud Threat Intelligence](https://cloud.google.com/blog/topics/threat-intelligence/lummac2-obfuscation-through-indirect-control-flow))
@@ -119,7 +119,7 @@ flowchart TD
 ## Görselleştirme
 
 ### Zararlı Yazılım Bulaşma Akışı
-```mermaid
+<pre class="mermaid">
 sequenceDiagram
     participant Kullanıcı
     participant E-posta
@@ -130,15 +130,15 @@ sequenceDiagram
     Sistem->>Sistem: Kimlik bilgileri ve çerezleri toplar
     Sistem->>C2: Çalınan verileri gönderir
     C2->>Sistem: Kalıcılık talimatlarını iletir
-```
+</pre>
 
 ### Ağ İletişim Diyagramı
-```mermaid
+<pre class="mermaid">
 graph TD
     KullanıcıCihaz[Son Kullanıcı Cihazı] -->|HTTP/HTTPS| GüvenlikDuvarı
     GüvenlikDuvarı -->|Şifreli Trafik| C2Sunucusu[C2 Sunucusu]
     C2Sunucusu -->|Komutlar/Güncellemeler| KullanıcıCihaz
-```
+</pre>
 
 ---
 
@@ -151,3 +151,10 @@ LummaC2, dolaylı kontrol akışı ve şifreleme teknikleriyle modern güvenlik 
 - [SilentPush Blog](https://www.silentpush.com/blog/lummac2/)
 - [Google Cloud Threat Intelligence](https://cloud.google.com/blog/topics/threat-intelligence/lummac2-obfuscation-through-indirect-control-flow)
 - [SOCRadar Analiz](https://socradar.io/malware-analysis-lummac2-stealer/)
+
+<script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({
+        startOnLoad: true
+    });
+</script>
