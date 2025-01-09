@@ -4,7 +4,7 @@ date: '2025-01-09T22:29:31+03:00'
 author: author1_id
 layout: post
 permalink: /lummac2-zararli-yazilimi-teknik-analiz/
-image: /assets/img/freevpn.jpg
+image: /assets/img/lumma.jpg
 categories:
     - rapor
 tags:
