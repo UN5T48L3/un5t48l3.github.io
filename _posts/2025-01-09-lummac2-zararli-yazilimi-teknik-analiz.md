@@ -1,6 +1,6 @@
 ---
 title: 'LummaC2 Zararlı Yazılımı Teknik Analiz'
-date: '2025-01-09T22:29:31+03:00'
+date: '2025-01-08T22:29:31+03:00'
 author: author1_id
 layout: post
 permalink: /lummac2-zararli-yazilimi-teknik-analiz/
