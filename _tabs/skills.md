@@ -154,4 +154,4 @@ In addition to my Offensive Security certifications, here is a detailed breakdow
 
 ## Contact
 
-If you’d like to collaborate, discuss a project, or just want to say hello, feel free to reach out via emailor [connect on LinkedIn](https://www.linkedin.com/in/un5t48l3/).
+If you’d like to collaborate, discuss a project, or just want to say hello, feel free to reach out via email or [connect on LinkedIn](https://www.linkedin.com/in/un5t48l3/).
