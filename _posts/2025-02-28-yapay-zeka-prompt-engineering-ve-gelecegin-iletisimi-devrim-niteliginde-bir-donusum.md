@@ -58,6 +58,8 @@ Yapay zeka sadece insanlarla değil, kendi aralarında da iletişim kuruyor. Anc
 
 Gibberlink, AI’lar için nasıl bir dönüşüm sağlıyorsa, **Neuralink** de insan-makine iletişimi için benzer bir devrim yaratmayı amaçlıyor. **Elon Musk’ın geliştirdiği bu proje**, beyin-bilgisayar arayüzleri sayesinde insanların doğrudan düşünceleriyle makinelere komut vermesini mümkün kılabilir.
 
+![alt text](brain-implant-neuralink_wide-8e0b63a768381c143179c6f2a6c0c49ce394c98d.jpg)
+
 🤯 Bu ne anlama geliyor?
 - 💭 Bir fikri yazmadan ya da konuşmadan, sadece **düşünerek** bir makineye iletebileceğiz.
 - 📩 Bir mesaj yazmak yerine, zihnimizde düşündüğümüz anda alıcıya ulaşabilecek.
